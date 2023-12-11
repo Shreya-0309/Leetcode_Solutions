@@ -1,0 +1,3 @@
+# 1447. Simplified Fractions
+
+Given an integer n, return a list of all simplified fractions between 0 and 1 (exclusive) such that the denominator is less-than-or-equal-to n. You can return the answer in any order.
