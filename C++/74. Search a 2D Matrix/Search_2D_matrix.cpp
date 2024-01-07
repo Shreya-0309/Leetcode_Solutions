@@ -1,4 +1,4 @@
-// Time complexity: log(m * n)
+// Time complexity: O(log(m * n))
 
 class Solution {
 public:
